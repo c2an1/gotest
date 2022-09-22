@@ -1,0 +1,2 @@
+# gotest
+just a test
